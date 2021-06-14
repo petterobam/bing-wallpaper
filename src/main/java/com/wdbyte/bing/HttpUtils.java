@@ -14,7 +14,7 @@ import java.net.URL;
  * @Date 2021/02/07 21:25
  * @link https://github.com/niumoo
  */
-public class HttpUtls {
+public class HttpUtils {
 
     /**
      * 获取 HTTP 连接

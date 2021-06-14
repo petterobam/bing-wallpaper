@@ -23,7 +23,7 @@ public class Wallpaper {
     private static String BING_URL = "https://cn.bing.com";
 
     public static void main(String[] args) throws IOException {
-        String httpContent = HttpUtls.getHttpContent(BING_API);
+        String httpContent = HttpUtils.getHttpContent(BING_API);
         JSONObject jsonObject = JSON.parseObject(httpContent);
         JSONArray jsonArray = jsonObject.getJSONArray("images");
 
