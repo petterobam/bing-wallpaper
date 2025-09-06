@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-07 | [Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg) 
+
 2025-09-05 | [Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)](https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg) 
 
 2025-09-04 | [Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg) 
