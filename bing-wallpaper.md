@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-08 | [Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg) 
+
 2025-09-07 | [Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg) 
 
 2025-09-05 | [Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)](https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg) 
